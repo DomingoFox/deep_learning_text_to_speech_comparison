@@ -1,0 +1,15 @@
+torch
+diffusers>=0.38.0
+transformers>=4.51.0
+accelerate
+phonemizer
+espeakng-loader
+sentencepiece
+protobuf
+scipy
+numpy
+pandas
+matplotlib
+librosa
+soundfile
+ipython
