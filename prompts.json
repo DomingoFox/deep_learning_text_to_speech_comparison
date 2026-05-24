@@ -1,0 +1,302 @@
+[
+  {
+    "id": "auctioneer_fast",
+    "category": "Extreme Pacing & Cadence",
+    "transcript": "Do I hear fifty? Fifty dollars to the gentleman in the back, now sixty, sixty dollars, going once, going twice, sold for sixty dollars!",
+    "style": "A male auctioneer speaking at breakneck speed, rhythmic, continuous, and highly energetic."
+  },
+  {
+    "id": "hypnotist_slow",
+    "category": "Extreme Pacing & Cadence",
+    "transcript": "Your eyelids are becoming incredibly heavy. With every word I speak, you sink deeper, and deeper, into relaxation.",
+    "style": "A woman speaking extremely slowly, with a smooth, soothing, and rhythmic cadence."
+  },
+  {
+    "id": "out_of_breath",
+    "category": "Extreme Pacing & Cadence",
+    "transcript": "I ran... all the way here... I think we lost them... back at the bridge.",
+    "style": "A young man speaking while panting heavily, out of breath, and struggling to finish the sentence."
+  },
+  {
+    "id": "valley_girl_upspeak",
+    "category": "Extreme Pacing & Cadence",
+    "transcript": "So I was literally just walking down the street? And this guy comes up to me? And it was, like, totally bizarre?",
+    "style": "A young woman speaking with heavy vocal fry and upspeak, making every statement sound like a question."
+  },
+  {
+    "id": "stuttering_nervous",
+    "category": "Extreme Pacing & Cadence",
+    "transcript": "I... I-I didn't mean to do it. It was a... it was an accident, I swear!",
+    "style": "A young boy stuttering heavily, his voice trembling with severe anxiety."
+  },
+  {
+    "id": "drill_sergeant",
+    "category": "Professions & Archetypes",
+    "transcript": "Drop down and give me fifty right now! I want to see sweat hitting the dirt!",
+    "style": "A middle-aged man screaming with intense, raspy, drill-sergeant authority."
+  },
+  {
+    "id": "asmr_whisper",
+    "category": "Professions & Archetypes",
+    "transcript": "I am going to tap on this glass very gently. Listen closely to the sound it makes.",
+    "style": "A young woman speaking in an extremely close, breathy, and gentle ASMR whisper."
+  },
+  {
+    "id": "epic_movie_trailer",
+    "category": "Professions & Archetypes",
+    "transcript": "In a world where magic has been outlawed, one man must risk everything to save his family.",
+    "style": "A man with an incredibly deep, gravelly, and dramatic cinematic voice."
+  },
+  {
+    "id": "standup_comedian",
+    "category": "Professions & Archetypes",
+    "transcript": "So the doctor says to me, 'you have five months to live,' and I said, 'doc, can I get a second opinion?'",
+    "style": "A middle-aged woman speaking loudly with punchy, comedic timing, sounding like she is on stage."
+  },
+  {
+    "id": "flight_attendant",
+    "category": "Professions & Archetypes",
+    "transcript": "Please ensure your seatbelts are securely fastened and your tray tables are in their full upright position.",
+    "style": "A young female speaking with an overly cheerful, crisp, and rehearsed customer service singsong."
+  },
+  {
+    "id": "devastated_crying",
+    "category": "Extreme Emotions",
+    "transcript": "I can't believe they are really gone. What am I supposed to do now?",
+    "style": "An adult male sobbing, his voice cracking and breaking with profound grief."
+  },
+  {
+    "id": "manic_laughter",
+    "category": "Extreme Emotions",
+    "transcript": "It works! I finally fixed the formula! They said I was crazy, but look at it now!",
+    "style": "An older man speaking frantically, bursting into manic, unstable laughter."
+  },
+  {
+    "id": "terrified_whisper",
+    "category": "Extreme Emotions",
+    "transcript": "Turn the flashlight off. It can see the light.",
+    "style": "A young woman whispering with absolute dread and terror in her voice."
+  },
+  {
+    "id": "furious_karen",
+    "category": "Extreme Emotions",
+    "transcript": "I demand to speak to your manager right this second! This is completely unacceptable!",
+    "style": "A middle-aged woman shouting loudly with extreme entitlement, sharpness, and anger."
+  },
+  {
+    "id": "deep_depression",
+    "category": "Extreme Emotions",
+    "transcript": "It just doesn't matter anymore. Nothing I do makes any difference.",
+    "style": "A teenage boy speaking with absolutely zero energy, flat, monotone, and defeated."
+  },
+  {
+    "id": "teeth_chattering",
+    "category": "Quirky & Unusual Scenarios",
+    "transcript": "I-it is so c-cold out here, I can't f-feel my fingers.",
+    "style": "A young woman speaking with a shaky voice, her teeth visibly chattering from freezing temperatures."
+  },
+  {
+    "id": "talking_while_chewing",
+    "category": "Quirky & Unusual Scenarios",
+    "transcript": "This is the best burger I've ever had. Seriously, you need to try a bite.",
+    "style": "An adult male speaking informally, sounding like his mouth is entirely full of food."
+  },
+  {
+    "id": "waking_up_groggy",
+    "category": "Quirky & Unusual Scenarios",
+    "transcript": "What time is it? Ugh, close the blinds, the sun is too bright.",
+    "style": "A middle-aged female speaking with a raspy, deep, and heavily groggy morning voice."
+  },
+  {
+    "id": "holding_breath",
+    "category": "Quirky & Unusual Scenarios",
+    "transcript": "I can't... hold it... much longer!",
+    "style": "A male speaking with a strained, tight voice, sounding like he is lifting a massive weight."
+  },
+  {
+    "id": "shouting_over_noise",
+    "category": "Quirky & Unusual Scenarios",
+    "transcript": "I said, do you want to get out of here?! The music is too loud!",
+    "style": "A young woman shouting at the top of her lungs, straining her vocal cords."
+  },
+  {
+    "id": "robot_dying",
+    "category": "Fantasy & Sci-Fi",
+    "transcript": "System failure imminent. Power levels... dropping... shutting... down.",
+    "style": "A synthetic, robotic male voice progressively slowing down and pitching down into silence."
+  },
+  {
+    "id": "ancient_wizard",
+    "category": "Fantasy & Sci-Fi",
+    "transcript": "You seek the dragon's eye? Foolish child, you do not know the power you tamper with.",
+    "style": "An elderly male with a crotchety, ancient, heavily textured and crackling voice."
+  },
+  {
+    "id": "evil_queen",
+    "category": "Fantasy & Sci-Fi",
+    "transcript": "Off with their heads. And leave the bodies for the crows.",
+    "style": "An adult female speaking with cold, arrogant, silky, and deeply sinister authority."
+  },
+  {
+    "id": "alien_hivemind",
+    "category": "Fantasy & Sci-Fi",
+    "transcript": "We are many. You cannot resist our collective will. Surrender your planet.",
+    "style": "A voice that sounds simultaneously male and female, speaking in a perfectly synced, emotionless chant."
+  },
+  {
+    "id": "pirate_captain",
+    "category": "Fantasy & Sci-Fi",
+    "transcript": "Hoist the mainsails, you scurvy dogs! There be gold in them waters!",
+    "style": "A gruff, boisterous older man yelling with a thick, exaggerated pirate accent."
+  },
+  {
+    "id": "toddler_learning",
+    "category": "Specific Ages",
+    "transcript": "Me want... pas-getti! Pas-getti please!",
+    "style": "A very young toddler speaking loudly with mispronounced syllables and childish enthusiasm."
+  },
+  {
+    "id": "cranky_grandpa",
+    "category": "Specific Ages",
+    "transcript": "Back in my day, we didn't have these fancy little screens. We played in the dirt!",
+    "style": "An elderly man speaking with a nasal, complaining, and deeply raspy tone."
+  },
+  {
+    "id": "sweet_grandmother",
+    "category": "Specific Ages",
+    "transcript": "I baked you some fresh chocolate chip cookies, my sweet little angel.",
+    "style": "An elderly woman with a gentle, warbling, and incredibly warm maternal voice."
+  },
+  {
+    "id": "bored_teen_gamer",
+    "category": "Specific Ages",
+    "transcript": "Bro, he's literally one shot. Just push him. Ugh, you're so bad at this.",
+    "style": "A teenage boy speaking with a nasal, apathetic, and slightly annoyed gamer cadence."
+  },
+  {
+    "id": "shy_schoolgirl",
+    "category": "Specific Ages",
+    "transcript": "Um, excuse me? I think you dropped your notebook back there in the hallway.",
+    "style": "A young teenage girl speaking very quietly, with a timid and hesitant high-pitched voice."
+  },
+  {
+    "id": "surfer_dude",
+    "category": "Cultural/Regional Archetypes",
+    "transcript": "Woah, dude. That wave was totally gnarly. Did you see the barrel on that thing?",
+    "style": "A young male speaking with a slow, relaxed, and highly drawn-out surfer cadence."
+  },
+  {
+    "id": "southern_belle",
+    "category": "Cultural/Regional Archetypes",
+    "transcript": "Well bless your heart, aren't you just the sweetest thing to ever walk through my door?",
+    "style": "An adult female speaking with a slow, rich, melodic, and charming Southern drawl."
+  },
+  {
+    "id": "new_york_cab",
+    "category": "Cultural/Regional Archetypes",
+    "transcript": "Hey, I'm walkin' here! Get your car off the crosswalk, buddy!",
+    "style": "A gruff middle-aged man yelling with a fast, aggressive, and highly pronounced New York city attitude."
+  },
+  {
+    "id": "posh_aristocrat",
+    "category": "Cultural/Regional Archetypes",
+    "transcript": "I simply refuse to drink this tea. It is tepid, bitter, and utterly dreadful.",
+    "style": "An older male speaking with incredibly crisp enunciation and a snobby, haughty upper-class tone."
+  },
+  {
+    "id": "wild_west_cowboy",
+    "category": "Cultural/Regional Archetypes",
+    "transcript": "This town ain't big enough for the two of us. Draw your weapon.",
+    "style": "An adult male speaking with a low, gritty, slow, and menacing western drawl."
+  },
+  {
+    "id": "choir_singer",
+    "category": "Vocal Manipulations & Singing",
+    "transcript": "Amazing grace, how sweet the sound, that saved a wretch like me.",
+    "style": "A young female singing softly with beautiful, clear pitch and heavy vibrato."
+  },
+  {
+    "id": "monotone_drone",
+    "category": "Vocal Manipulations & Singing",
+    "transcript": "The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.",
+    "style": "A male speaking with absolutely zero inflection, perfectly flat pitch, and robotic timing."
+  },
+  {
+    "id": "passive_aggressive",
+    "category": "Vocal Manipulations & Singing",
+    "transcript": "Oh, no, it's totally fine that you're an hour late. I love waiting in the rain.",
+    "style": "A young woman speaking with a tight, fake smile in her voice and heavy sarcasm."
+  },
+  {
+    "id": "drunk_slurring",
+    "category": "Vocal Manipulations & Singing",
+    "transcript": "Officer, I promise you, I only had like... two waters. Honestly.",
+    "style": "A middle-aged man slurring his words heavily, speaking slowly and clumsily."
+  },
+  {
+    "id": "cheerleader_chant",
+    "category": "Vocal Manipulations & Singing",
+    "transcript": "Two, four, six, eight, who do we appreciate? The Wildcats! Woo!",
+    "style": "A teenage girl shouting rhythmically with extremely high, bouncing, and piercing energy."
+  },
+  {
+    "id": "late_night_dj",
+    "category": "Media & Broadcasting",
+    "transcript": "You're listening to the midnight groove. Sit back, relax, and let the jazz wash over you.",
+    "style": "A male with a deep, incredibly smooth, velvety, and intimate radio broadcasting voice."
+  },
+  {
+    "id": "sports_play_by_play",
+    "category": "Media & Broadcasting",
+    "transcript": "He dodges the tackle, he's at the twenty, the ten, touchdown! An unbelievable play!",
+    "style": "An adult male speaking with rapid-fire speed, his voice progressively getting louder and more hysterical."
+  },
+  {
+    "id": "news_anchor_tragedy",
+    "category": "Media & Broadcasting",
+    "transcript": "We are receiving reports of a major incident downtown. Emergency crews are currently on the scene.",
+    "style": "A female news anchor speaking with a somber, highly serious, and completely steady professional tone."
+  },
+  {
+    "id": "game_show_host",
+    "category": "Media & Broadcasting",
+    "transcript": "Congratulations! You have just won a brand new car!",
+    "style": "A male speaking with a booming, overly enthusiastic, and plastic television presenter voice."
+  },
+  {
+    "id": "weather_reporter",
+    "category": "Media & Broadcasting",
+    "transcript": "Expect a massive cold front to sweep in through the northeast by tomorrow evening.",
+    "style": "A young female speaking quickly and brightly while pointing at an imaginary map."
+  },
+  {
+    "id": "talking_to_dog",
+    "category": "Oddities",
+    "transcript": "Who's a good boy? Are you a good boy? Yes you are! Yes you are!",
+    "style": "An adult male speaking in a high-pitched, incredibly affectionate, and silly 'baby talk' voice."
+  },
+  {
+    "id": "shady_merchant",
+    "category": "Oddities",
+    "transcript": "Come closer... I have goods that the royal guards don't want you to see.",
+    "style": "An old man whispering softly with a raspy, secretive, and manipulative tone."
+  },
+  {
+    "id": "dying_last_words",
+    "category": "Oddities",
+    "transcript": "Tell my daughter... that I always... loved her.",
+    "style": "An adult male speaking with extreme weakness, gasping for air between words, fading to a whisper."
+  },
+  {
+    "id": "loud_sneezing",
+    "category": "Oddities",
+    "transcript": "I think I'm allergic to your cat. Ah... ah-choo!",
+    "style": "A young female speaking nasally, culminating in a sudden, loud vocalized sneeze."
+  },
+  {
+    "id": "intense_meditation",
+    "category": "Oddities",
+    "transcript": "Breathe in the light. Breathe out the darkness. You are entirely at peace.",
+    "style": "An older male speaking with deep resonance, incredible slowness, and a calming hum."
+  }
+]
